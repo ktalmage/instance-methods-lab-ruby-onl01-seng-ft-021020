@@ -4,4 +4,8 @@ class Dog #creates class definition
   def bark
     puts "Woof!"
   end
+  #adds sit instance to the the Dog class
+  def sit
+    puts "The Dog is sitting"
+  end
 end
